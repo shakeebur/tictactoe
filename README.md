@@ -1,4 +1,4 @@
-# Shakeeb Rahman's Tic-Tac-Toe vs AI Game
+# Tic-Tac-Toe vs AI Game
 This is a simple Tic-Tac-Toe game built using React where you can play against an AI opponent. The AI uses the Minimax algorithm to make its moves, which ensures it's always playing the best possible move, making it a tough competitor.
 
 ## How to run the app
