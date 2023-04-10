@@ -1,7 +1,7 @@
 # Shakeeb Rahman's Tic-Tac-Toe vs AI Game
 This is a simple Tic-Tac-Toe game built using React where you can play against an AI opponent. The AI uses the Minimax algorithm to make its moves, which ensures it's always playing the best possible move, making it a tough competitor.
 
-# How to run the app
+## How to run the app
 Make sure you have Node.js and NPM (Node Package Manager) installed on your computer. You can download them from the official Node.js website.
 
 Open your terminal (or command prompt) and navigate to the directory containing the React app (where the package.json file is located).
@@ -24,7 +24,7 @@ The Minimax algorithm can be summarized in the following steps:
 - The algorithm will choose the move that leads to the maximum score for the current player, while minimizing the score for the opponent (hence the name Minimax).
 - By using this algorithm, the AI opponent can predict all possible outcomes of the game and make decisions that ensure the highest probability of winning or drawing.
 
-# How the AI works
+## How the AI works
 The AI in this game uses the Minimax algorithm, a decision-making algorithm used in two-player games like Tic-Tac-Toe. The algorithm calculates the best possible move for the AI by considering all possible moves and their outcomes. It does this by simulating the game, with each player making optimal moves until a terminal state is reached (win, loss, or draw).
 
 Minimax algorithm assigns a score to each game state: a positive score for a win, a negative score for a loss, and zero for a draw. The AI's goal is to maximize its score while minimizing the opponent's score.
