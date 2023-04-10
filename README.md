@@ -38,7 +38,8 @@ In simple terms, the Minimax algorithm predicts future moves and chooses the mov
 - If you want to replay your last move, click the "Replay" button.
 - To start a new game, click the "Start" button again.
 - Enjoy playing Tic-Tac-Toe against the AI!
-
-
+# Credit
+- I would credit the Minimax logic to be derived from https://www.geeksforgeeks.org/finding-optimal-move-in-tic-tac-toe-using-minimax-algorithm-in-game-theory/ as they did a grat job explaining it.
+- UI design was inspired from https://github.com/Cledersonbc/tic-tac-toe-minimax.
 
 
